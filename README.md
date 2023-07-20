@@ -160,7 +160,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 [https://github.com/bertmiller/sMEV](Synthetix repo)
 
 [https://www.youtube.com/watch?v=wn8r674U1B4](Simple arb walkthrough)
-[https://github.com/thasarito/simple-arbitrage-rs] (simple arb rust)
+[https://github.com/thasarito/simple-arbitrage-rs](simple arb rust)
 
 [Sudoswap arb example](https://github.com/Vineta-K/sudoswap-arb-public)
 
@@ -182,7 +182,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 ## Acount abstraction
 
-[https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email] (alchemy blog post)
+[https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email](alchemy blog post)
 
 [https://github.com/4337Mafia/awesome-account-abstraction](awesome AA)
 
@@ -192,7 +192,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [CryptoSalamon](https://inevitableeth.com/en/home/concepts)
 
-https://hackmd.io/@blockdev/BJIW0Rlr3
+[good blog](https://hackmd.io/@blockdev/BJIW0Rlr3)
 
 ## Auditing
 
@@ -206,7 +206,6 @@ https://hackmd.io/@blockdev/BJIW0Rlr3
 
 [audit talk](https://www.youtube.com/watch?v=R1eZCmR91vQ&ab_channel=ETHGlobal)
 
-[Roadmap]()
 
 ## CTF
 
@@ -250,7 +249,7 @@ https://hackmd.io/@blockdev/BJIW0Rlr3
 
 ## AI
 
-[intro][https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61]
+[intro](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
 [https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-5-model-deployment-de23f98e87d](rust llm guidelines)
 
 [https://blog.replit.com/llm-training](llm training)
