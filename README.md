@@ -155,18 +155,18 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [subway-rs](https://github.com/refcell/subway-rs/tree/main)
 
-[https://bertcmiller.com/2021/09/05/mev-synthetix.html] (Synthetix)
+[Synthetix] ( https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 
-[https://github.com/bertmiller/sMEV](Synthetix repo)
+[Synthetix repo](https://github.com/bertmiller/sMEV)
 
-[https://www.youtube.com/watch?v=wn8r674U1B4](Simple arb walkthrough)
-[https://github.com/thasarito/simple-arbitrage-rs](simple arb rust)
+[Simple arb walkthrough](https://www.youtube.com/watch?v=wn8r674U1B4)
+[Simple Arb Rust](https://github.com/thasarito/simple-arbitrage-rs)
 
 [Sudoswap arb example](https://github.com/Vineta-K/sudoswap-arb-public)
 
-[https://github.com/mouseless-eth/rusty-sando](sandwich example)
+[sandwich example](https://github.com/mouseless-eth/rusty-sando)
 
-[https://github.com/KuTuGu/Arbitrage/tree/main](Arbitrage repo)
+[Arbitrage repo](https://github.com/KuTuGu/Arbitrage/tree/main])
 
 [Wolfgame MEV](https://github.com/0xAlcibiades/WolfGameMEV)
 
@@ -182,11 +182,11 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 ## Acount abstraction
 
-[https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email] (alchemy blog post)
+[Alchemy Blog Post]([https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email)
 
-[https://github.com/4337Mafia/awesome-account-abstraction] (awesome AA)
+[awesome AA](https://github.com/4337Mafia/awesome-account-abstraction])
 
-[https://github.com/PaymagicXYZ/awesome-account-abstraction] (Awesome AA #2)
+[Awesome AA #2](https://github.com/PaymagicXYZ/awesome-account-abstraction)
 
 ## Cryptography
 
@@ -200,9 +200,9 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [Solodit DB](https://solodit.xyz/)
 
-[https://github.com/tamjid0x01/SmartContracts-audit-checklist](audit checklist)
+[audit checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 
-[https://www.youtube.com/watch?v=ZAiSou0CJmE](great audit talk)
+[great audit talk](https://www.youtube.com/watch?v=ZAiSou0CJmE)
 
 [audit talk](https://www.youtube.com/watch?v=R1eZCmR91vQ&ab_channel=ETHGlobal)
 
@@ -239,7 +239,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [Audting](https://twitter.com/andyfeili/status/1605418518165737472?s=46&t=nPGPNS-99zuYeVgSn5y-ZA)
 
-[https://github.com/ethereumbook/ethereumbook](Ethereum book)
+[Ethereum book](https://github.com/ethereumbook/ethereumbook)
 
 ## Good repos
 
@@ -250,8 +250,8 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 ## AI
 
 [intro](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
-[https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-5-model-deployment-de23f98e87d](rust llm guidelines)
+[rust llm guidelines](https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-5-model-deployment-de23f98e87d)
 
-[https://blog.replit.com/llm-training](llm training)
+[llm training](https://blog.replit.com/llm-training)
 
 [create transformer](https://www.youtube.com/watch?v=U0s0f995w14)
