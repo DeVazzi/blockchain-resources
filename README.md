@@ -182,7 +182,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 ## Acount abstraction
 
-[Alchemy Blog Post]([https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email)
+[Alchemy Blog Post](https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email)
 
 [awesome AA](https://github.com/4337Mafia/awesome-account-abstraction])
 
