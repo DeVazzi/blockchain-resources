@@ -249,6 +249,7 @@
 ## AI
 
 [intro](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
+
 [rust llm guidelines](https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-5-model-deployment-de23f98e87d)
 
 [llm training](https://blog.replit.com/llm-training)
