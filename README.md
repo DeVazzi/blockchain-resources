@@ -132,8 +132,7 @@
 
 [Zk Circuits](https://twitter.com/jtriley_eth/status/1595708446284058625?s=46&t=DKzmwkhw7q84zF7dPnjI5A)
 
-[Zk circuits using circom](https://twitter.com/0xdarlington/status/1576278793487982593?s=46&
-t=DKzmwkhw7q84zF7dPnjI5A)
+[Zk circuits using circom](https://twitter.com/0xdarlington/status/1576278793487982593)
 
 [Zk learning resources](https://twitter.com/smpalladino/status/1602049557352910850?s=46&t=mAPwUBVJHpZOxr-8JaBuLA)
 
@@ -149,7 +148,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [A post by James](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
 
-[https://github.com/Defi-Cartel/salmonella](Salmonella attack)
+[Salmonella attack](https://github.com/Defi-Cartel/salmonella)
 
 [Flashbots by example](https://github.com/flashbots/ethers-provider-flashbots-bundle)
 
