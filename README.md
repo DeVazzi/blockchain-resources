@@ -182,11 +182,11 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 ## Acount abstraction
 
-[https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email](alchemy blog post)
+[https://www.alchemy.com/blog/account-abstraction?utm_source=substack&utm_medium=email] (alchemy blog post)
 
-[https://github.com/4337Mafia/awesome-account-abstraction](awesome AA)
+[https://github.com/4337Mafia/awesome-account-abstraction] (awesome AA)
 
-[https://github.com/PaymagicXYZ/awesome-account-abstraction](Awesome AA #2)
+[https://github.com/PaymagicXYZ/awesome-account-abstraction] (Awesome AA #2)
 
 ## Cryptography
 
