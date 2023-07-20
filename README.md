@@ -155,7 +155,7 @@ t=DKzmwkhw7q84zF7dPnjI5A)
 
 [subway-rs](https://github.com/refcell/subway-rs/tree/main)
 
-[Synthetix] ( https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+[Synthetix](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 
 [Synthetix repo](https://github.com/bertmiller/sMEV)
 
