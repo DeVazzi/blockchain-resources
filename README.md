@@ -17,8 +17,6 @@
 
 [Inevitable Ethereum](https://twitter.com/salomoncrypto/status/1601229194481893376?s=46&t=DKzmwkhw7q84zF7dPnjI5A)
 
-[Officer notes](https://twitter.com/officer_cia/status/1600912397727928353?s=46&t=DKzmwkhw7q84zF7dPnjI5A)
-
 [OZ deconstructing a contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 
 [Smart Contract creation](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-5-the-smart-contract-creation-process-cb7b6133b855)
