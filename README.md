@@ -63,11 +63,7 @@
 
 [Nader Intro](https://www.youtube.com/watch?v=uelA2U9TbgM)
 
-[Book](https://book.getfoundry.sh/)
-
 [cheatsheet](https://github.com/ZenGo-X/foundry-cheatsheet)
-
-[Clone existing contract to local env](https://github.com/zobront/quickpoc)
 
 [helper functions for tests](https://gist.github.com/jameswenzel/86d2e1a524ffc66eb424770f74165a49)
 
