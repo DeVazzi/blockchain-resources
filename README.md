@@ -31,8 +31,6 @@
 
 [contract disassemble](https://www.youtube.com/watch?v=I6VDBvX9Pkw)
 
-[Playground](https://www.evm.codes/playground)
-
 [Decoding input data](https://www.youtube.com/watch?v=jkOGavXTuu0)
 
 [Heimdal EVM toolkit](https://github.com/Jon-Becker/heimdall-rs)
