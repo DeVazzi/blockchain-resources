@@ -10,7 +10,6 @@
 
 [Ethereum enigineering talk](https://www.youtube.com/watch?v=RxL_1AfV7N4&ab_channel=EthereumEngineeringGroup)
 
-[EVM Opcodes](https://ethervm.io/)
 
 [EVM Storage](https://twitter.com/blainemalone/status/1597352375593078784?s=46&t=DKzmwkhw7q84zF7dPnjI5A)
 
